@@ -1,8 +1,8 @@
-## CRUD Restaurants built with Django Rest Framework, React & Docker
+## CRUD Restaurants application built with Django Rest Framework, React & Docker
 
 Components:
-* Web Framework [Django Rest Framework](https://www.django-rest-framework.org/)
-* React [Celery](https://reactjs.org/)
+* Backend [Django Rest Framework](https://www.django-rest-framework.org/)
+* Frontend [ReactJs](https://reactjs.org/)
 * Database [PostgreSQL](https://www.postgresql.org)
 
 ### Install
